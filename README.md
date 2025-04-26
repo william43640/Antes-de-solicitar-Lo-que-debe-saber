@@ -8,7 +8,7 @@ Aquí tiene un breve resumen para ayudarle a empezar con buen pie:
 ¿Cómo se le pagará? Los pagos se emiten a través de tarjetas del Banco del Bienestar y la distribución comienza el 20 de enero de 2025.
 
 📄 2. Documentos requeridos
-Para evitar retrasos, prepare con anticipación los siguientes archivos <p><strong><a href="https://www.rhaldia.com.mx/">https://www.rhaldia.com.mx/</a></strong></p>
+Para evitar retrasos, prepare con anticipación los siguientes archivos 
  en formato digital:
 
 Para el estudiante:
@@ -28,7 +28,7 @@ Identificación oficial vigente (INE, pasaporte o cédula profesional)
 Comprobante de domicilio reciente (recibo de servicios públicos, recibo de predial, etc.)
 
 🌐 3. Cree su perfil en línea
-Visite www.becaritacetina.gob.mx y:
+Visite <p><strong><a href="https://www.rhaldia.com.mx/">https://www.rhaldia.com.mx/</a></strong></p>
 
 Haga clic en "Registrarse" o "Crear cuenta".
 
